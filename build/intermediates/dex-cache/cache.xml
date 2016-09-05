@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/RssReader/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="83b9d1fd6dd3791184d6b60d3a130a993e2987e3">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/RssReader/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.1.0_3fc4941ea9abf762c80552f245244d3d520a6b7c.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/RssReader/app/build/intermediates/pre-dexed/debug/library-2.4.0_696e727360067d59b4a7457264efec12a970ba55.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/RssReader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/RssReader/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_51f78a68624b21a94769fcca17b0fd84f122cb77.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/RssReader/app/build/intermediates/exploded-aar/com.daimajia.androidanimations/library/1.1.3/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/RssReader/app/build/intermediates/pre-dexed/debug/com.daimajia.androidanimations-library-1.1.3_a136dbc9f4f3f70c1d1ea5bc7eecd6a7dab428a6.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/RssReader/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/RssReader/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.0_d8637e9dad1da000df1a9e8ccc6ed9a15aa04c1c.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/RssReader/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/jars/libs/internal_impl-24.1.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/RssReader/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.0_9a868b13ef54d7b6a515bb53021d13530e83f811.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/RssReader/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_cd70d74467073a476f7619c501bf21435e0ffe4d.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/RssReader/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/RssReader/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_0c8fa6d37c420ee1af0d8353edb55ca9e1e0a53f.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/RssReader/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/RssReader/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_2098c29239fc7c3bba99ea1bd34dc8fd5f456e76.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.0/support-annotations-24.1.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/RssReader/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.0_3594c548121a9cc72c5487cd240b939d3521d059.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/RssReader/app/build/intermediates/exploded-aar/com.daimajia.easing/library/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/RssReader/app/build/intermediates/pre-dexed/debug/com.daimajia.easing-library-1.0.1_44281a51e48a2e2da0890891956205ef032dfb45.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/RssReader/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/RssReader/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.0.0_fc9646dc391672faa9ce7c963917dcb7c50b687e.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/RssReader/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="4157816e81f0820983957687e9a6f4c1cea0f1e5">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/RssReader/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.1.0_59e9f9784d1c76745c0a57436d382536c82cfe88.jar" />
+    </item>
+
+</items>
